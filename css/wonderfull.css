@@ -1,0 +1,185 @@
+/*L Area Start*/
+.L {
+  color: lawngreen;
+  text-align: center;
+}
+/*L Area End*/
+
+
+/*S Area Start*/
+.S {
+ text-align: center;
+ background: url(../images/downloa.webp);
+ background-size: 100% 100%;
+ color: seagreen;
+}
+/*S Area End*/
+
+
+/*U Area Srart*/
+.U {
+  color: red;
+}
+.U h2 {
+  text-align: center;
+}
+/*U Area End*/
+
+
+/*P Area Start*/
+.P {
+  text-align: center;
+  color: palevioletred;
+}
+/*P Area Start*/
+
+/*li Area Start*/
+.li h1{
+   color: rgba(0, 100, 80, 0.582);
+}
+/*li Area End*/
+
+
+/*M Area Start*/
+.M h1 {
+  color: midnightblue;
+}
+.M h3 {
+  text-align: center;
+}
+/*M Area End*/
+
+
+/*N Area Start*/
+.N h1 {
+  color: seagreen;
+}
+ h3 {
+  text-align: center;
+}
+/*N Area End*/
+
+/*C Area Start*/
+.C h1 {
+  color: cyan;
+}
+h3 {
+  text-align: center;
+}
+/*C Area End*/
+
+
+.sub-in {
+ position: relative;
+}
+.sub-in {
+  position: absolute;
+  display: inline-block;
+}
+.submit {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+.submit input {
+  height: 48px;
+  padding: 0 30px;
+  border-radius: 30px;
+  border: 0;
+  background: #fff;
+  font-size: 18px;
+}
+.Subscribe {
+  text-align: center;
+  color:#fff;
+  background: url(../images/download.webp);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.sub-in input[type="text"] {
+  display: inline-block;
+  height: 48px;
+  width: 320px;
+  border-radius: 30px;
+  border: 0;
+  font-size: 18px;
+  padding-left: 15px;
+  padding-right: 50px;
+  background: #c32cff;
+  color: #fff;
+}
+.sub-in input[type="text"]:focus { 
+  outline: 0;
+} 
+.Farhana {
+  text-align: center;
+  color: sandybrown;
+}
+
+/*R Area Start*/
+.R h1 {
+   color: lightsalmon;
+}
+/*R Area End*/
+
+
+/*W Area Srart*/
+.W h1 {
+   color: hotpink;
+}
+/*W Area End*/
+
+/*Q Area Start*/
+.Q h1{
+   color: goldenrod;
+}
+/*Q Area End*/
+
+
+
+/*Y Area Start*/
+.Y h1{
+   text-align: center;
+   color: darkcyan;
+}
+.Y  {
+   text-align: center;
+}
+/*Y Area End*/
+
+
+
+/*Download*/
+.Download {
+  text-align: center;
+}
+
+
+
+/*footer*/
+.footer {
+  text-align: center;
+  color: red;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}    
+
+.h3 {
+  color: red;
+}
+
+
+/*k*/
+.k {
+  color: rgb(0, 145, 255);
+}
+
+
+/*end*/
+.End {
+  text-align: center;
+  color: rgb(149, 0, 255);
+  }
